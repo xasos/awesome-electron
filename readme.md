@@ -75,6 +75,7 @@ Some good apps written with Electron.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
 - [Light Table](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
+- [Overcast for Desktop](https://github.com/xasos/overcast-desktop) - Overcast podcast player.
 
 
 ### Closed Source
